@@ -1,5 +1,13 @@
-# Submitted by:
+# Code Solutions
 
-## Urnisha Nandy
+Repo containing code solutions during PHILIPS bootcamp
 
-## Code1 ID: 320116573
+## Author
+
+
+```
+Urnisha Nandy
+
+Code1 ID: 320116573
+```
+
